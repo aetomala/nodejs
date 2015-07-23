@@ -8,4 +8,8 @@
   "dependencies": {
       "express": "*"
   }
+  "repository": {
+  	  "type": "git",
+  	  "url": "https://github.com/aetomala/nodejs.git"
+  }
 }
