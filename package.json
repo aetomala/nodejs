@@ -7,7 +7,7 @@
   "license": "APACHE",
   "dependencies": {
       "express": "*"
-  }
+  },
   "repository": {
   	  "type": "git",
   	  "url": "git://github.com/aetomala/nodejs.git"
