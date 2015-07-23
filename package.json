@@ -1,0 +1,11 @@
+{
+  "name": "ubuntu-node-hello",
+  "version": "0.0.1",
+  "description": "A NodeJS webserver to run inside a docker container",
+  "main": "index.js",
+  "author": "aetomala@us.ibm.com",
+  "license": "APACHE",
+  "dependencies": {
+      "express": "*"
+  }
+}
